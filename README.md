@@ -96,9 +96,9 @@ The following websites are built using HTML, CSS and JS
 
     - GitHub Page: [MDCL Website Mockup](https://bala-logesh.github.io/MDCL-Website-Mockup/)
 
-- #### [Loruki Clone](https://github.com/Bala-Logesh/loruki-website)
+- #### [Loruki Mockup](https://github.com/Bala-Logesh/loruki-website)
 
-    - GitHub Page: [Loruki Clone](https://bala-logesh.github.io/loruki-website/)
+    - GitHub Page: [Loruki Mockup](https://bala-logesh.github.io/loruki-website/)
 
 - #### [Boardash Mockup](https://github.com/Bala-Logesh/Boardash)
 
